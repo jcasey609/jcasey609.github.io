@@ -735,10 +735,7 @@ p {
 .main-section.contact {
     padding: 90px 0 100px;
     box-shadow: none;
-}
-
-.main-section.contact {
-    background: url(../img/bg-map.png) left 190px no-repeat;
+    background-color: #FFFFFF;
 }
 
 .contact-info-box {
@@ -751,7 +748,7 @@ p {
     font-size: 15px;
     font-weight: 400;
     float: left;
-    width: 102px;
+    width: 70px;
     margin-right: 12px;
     line-height: 28px;
 }
@@ -768,7 +765,9 @@ p {
 .contact-info-box span {
     line-height: 28px;
     display: block;
-    overflow: hidden;
+    overflow-wrap: break-word;
+    font-family: Oswald,sans-serif;
+    font-weight: normal;
 }
 
 .social-link {
