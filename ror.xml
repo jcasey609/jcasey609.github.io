@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for http://georgianjourneyguide.com/</title>
+  <link>http://georgianjourneyguide.com/</link>
+
+<item>
+     <link>http://georgianjourneyguide.com/</link>
+     <title>Georgian Journey Guide &amp;mdash; The complete guide to all things Georgia</title>
+     <description>A complete guide to the Republic of Georgia. We help you enjoy Georgia as it is meant to be.</description>
+     <ror:updatePeriod>daily</ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://georgianjourneyguide.com/Iframes/Georgia_learn_more.html</link>
+     <title>More Insight on Georgia</title>
+     <description>More Insight on Georgia</description>
+     <ror:updatePeriod>daily</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://georgianjourneyguide.com/Iframes/toEat.html</link>
+     <title>To Eat</title>
+     <description>To Eat</description>
+     <ror:updatePeriod>daily</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://georgianjourneyguide.com/Iframes/toShop.html</link>
+     <title>toShop</title>
+     <description>toShop</description>
+     <ror:updatePeriod>daily</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://georgianjourneyguide.com/Iframes/toDo.html</link>
+     <title>To Do</title>
+     <description>To Do</description>
+     <ror:updatePeriod>daily</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://georgianjourneyguide.com/Iframes/Services_learn_more.html</link>
+     <title>An Overview of our Services</title>
+     <description>An Overview of our Services</description>
+     <ror:updatePeriod>daily</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  
