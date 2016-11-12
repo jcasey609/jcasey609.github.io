@@ -23,12 +23,12 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="133" column="58" selection-start-line="133" selection-start-column="58" selection-end-line="133" selection-end-column="58" />
+            <state relative-caret-position="17">
+              <caret line="476" column="22" selection-start-line="476" selection-start-column="22" selection-end-line="476" selection-end-column="22" />
               <folding>
                 <element signature="e#403#410#0" expanded="true" />
-                <marker date="1478929742882" expanded="true" signature="1433:1485" ph="..." />
-                <marker date="1478929742882" expanded="true" signature="1439:1478" ph="{...}" />
+                <marker date="1478930573057" expanded="true" signature="1433:1485" ph="..." />
+                <marker date="1478930573057" expanded="true" signature="1439:1478" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -37,8 +37,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="99" column="3" selection-start-line="99" selection-start-column="3" selection-end-line="99" selection-end-column="3" />
+            <state relative-caret-position="135">
+              <caret line="888" column="27" selection-start-line="888" selection-start-column="27" selection-end-line="888" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -73,8 +73,8 @@
         <option value="$PROJECT_DIR$/Iframes/toEat.html" />
         <option value="$PROJECT_DIR$/Iframes/toShop.html" />
         <option value="$PROJECT_DIR$/css/responsive.css" />
-        <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/style.css" />
       </list>
     </option>
   </component>
@@ -236,15 +236,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1478870835720</updated>
-      <workItem from="1478870837497" duration="9286000" />
+      <workItem from="1478870837497" duration="10093000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9286000" />
+    <option name="totallyTimeSpent" value="10093000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18155198" sideWeight="0.5" order="-1" side_tool="false" content_ui="combo" />
@@ -403,20 +403,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="99" column="3" selection-start-line="99" selection-start-column="3" selection-end-line="99" selection-end-column="3" />
+        <state relative-caret-position="135">
+          <caret line="888" column="27" selection-start-line="888" selection-start-column="27" selection-end-line="888" selection-end-column="27" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="133" column="58" selection-start-line="133" selection-start-column="58" selection-end-line="133" selection-end-column="58" />
+        <state relative-caret-position="17">
+          <caret line="476" column="22" selection-start-line="476" selection-start-column="22" selection-end-line="476" selection-end-column="22" />
           <folding>
             <element signature="e#403#410#0" expanded="true" />
-            <marker date="1478929742882" expanded="true" signature="1433:1485" ph="..." />
-            <marker date="1478929742882" expanded="true" signature="1439:1478" ph="{...}" />
+            <marker date="1478930573057" expanded="true" signature="1433:1485" ph="..." />
+            <marker date="1478930573057" expanded="true" signature="1439:1478" ph="{...}" />
           </folding>
         </state>
       </provider>
