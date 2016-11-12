@@ -20,15 +20,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="97" selection-start-line="8" selection-start-column="97" selection-end-line="8" selection-end-column="97" />
+            <state relative-caret-position="408">
+              <caret line="24" column="51" selection-start-line="24" selection-start-column="51" selection-end-line="24" selection-end-column="51" />
               <folding>
                 <element signature="e#774#781#0" expanded="true" />
                 <marker date="1478933296682" expanded="true" signature="1804:1856" ph="..." />
                 <marker date="1478933296682" expanded="true" signature="1810:1849" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="toEat.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Iframes/toEat.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+              <folding>
+                <element signature="e#1001#1007#0" expanded="true" />
+                <element signature="e#1099#1105#0" expanded="true" />
+                <element signature="e#1199#1205#0" expanded="true" />
+                <element signature="e#1561#1567#0" expanded="true" />
+                <element signature="e#1702#1708#0" expanded="true" />
+                <element signature="e#1962#1968#0" expanded="true" />
+                <element signature="e#2144#2150#0" expanded="true" />
+                <element signature="e#2192#2199#0" expanded="true" />
+                <element signature="e#2204#2211#0" expanded="true" />
+                <element signature="e#2393#2399#0" expanded="true" />
+                <element signature="e#2697#2703#0" expanded="true" />
+                <element signature="e#2981#2987#0" expanded="true" />
+                <element signature="e#3177#3183#0" expanded="true" />
+                <element signature="e#3348#3354#0" expanded="true" />
+                <element signature="e#3511#3517#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -70,11 +96,11 @@
         <option value="$PROJECT_DIR$/Iframes/Services_learn_more.html" />
         <option value="$PROJECT_DIR$/Iframes/Southwestern_Georgia_dertails.html" />
         <option value="$PROJECT_DIR$/Iframes/toDo.html" />
-        <option value="$PROJECT_DIR$/Iframes/toEat.html" />
         <option value="$PROJECT_DIR$/Iframes/toShop.html" />
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/responsive.css" />
+        <option value="$PROJECT_DIR$/Iframes/toEat.html" />
       </list>
     </option>
   </component>
@@ -144,7 +170,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
+              <option name="myItemId" value="Iframes" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -243,12 +269,12 @@
       <option name="presentableId" value="Default" />
       <updated>1478870835720</updated>
       <workItem from="1478870837497" duration="10709000" />
-      <workItem from="1478932521399" duration="2058000" />
+      <workItem from="1478932521399" duration="2964000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12767000" />
+    <option name="totallyTimeSpent" value="13673000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1370" height="744" extended-state="0" />
@@ -349,13 +375,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Iframes/toEat.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Iframes/toShop.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -402,12 +421,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="97" selection-start-line="8" selection-start-column="97" selection-end-line="8" selection-end-column="97" />
+        <state relative-caret-position="408">
+          <caret line="24" column="51" selection-start-line="24" selection-start-column="51" selection-end-line="24" selection-end-column="51" />
           <folding>
             <element signature="e#774#781#0" expanded="true" />
             <marker date="1478933296682" expanded="true" signature="1804:1856" ph="..." />
             <marker date="1478933296682" expanded="true" signature="1810:1849" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Iframes/toEat.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+          <folding>
+            <element signature="e#1001#1007#0" expanded="true" />
+            <element signature="e#1099#1105#0" expanded="true" />
+            <element signature="e#1199#1205#0" expanded="true" />
+            <element signature="e#1561#1567#0" expanded="true" />
+            <element signature="e#1702#1708#0" expanded="true" />
+            <element signature="e#1962#1968#0" expanded="true" />
+            <element signature="e#2144#2150#0" expanded="true" />
+            <element signature="e#2192#2199#0" expanded="true" />
+            <element signature="e#2204#2211#0" expanded="true" />
+            <element signature="e#2393#2399#0" expanded="true" />
+            <element signature="e#2697#2703#0" expanded="true" />
+            <element signature="e#2981#2987#0" expanded="true" />
+            <element signature="e#3177#3183#0" expanded="true" />
+            <element signature="e#3348#3354#0" expanded="true" />
+            <element signature="e#3511#3517#0" expanded="true" />
           </folding>
         </state>
       </provider>
