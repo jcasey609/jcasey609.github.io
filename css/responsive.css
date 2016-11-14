@@ -81,7 +81,7 @@
 	.main-section.contact{ padding:60px 0 70px}
 	.client-part-haead{ font-size:20px; line-height:30px;}
 	.link{ font-size:10px; padding:5px 12px;}
-	.logo{ width:280px;}
+	.logo{ width:250px;}
 	.main-section.contact{ background-size:contain;}
 	.Portfolio-nav li a{ padding:5px 16px;}
 	.Portfolio-nav li{ display:block;}
@@ -98,7 +98,7 @@
 	/****Mobile Portrait 320 ****/
 	.contact-info-box{ margin-left:0;}
 
-	.logo{ width:250px;}
+	.logo{ width:220px;}
 	.social-link{ margin-left:0;}
 	.form{ margin:0}
 	.c-logo-part ul li{ display:block;}
