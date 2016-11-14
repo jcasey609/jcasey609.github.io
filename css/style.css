@@ -155,6 +155,7 @@ p {
     text-transform: uppercase;
     font-weight: 400;
     margin: 0 5px 0 0;
+
     padding: 0 0 0 15px;
 }
 
@@ -888,7 +889,7 @@ p {
 
 .footer-logo {
     margin: 15px auto 35px;
-    width: 76px;
+    width: 150px;
 }
 
 .copyright {
