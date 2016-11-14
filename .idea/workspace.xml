@@ -20,26 +20,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="364" column="37" selection-start-line="364" selection-start-column="37" selection-end-line="364" selection-end-column="37" />
+            <state relative-caret-position="255">
+              <caret line="244" column="26" selection-start-line="244" selection-start-column="26" selection-end-line="244" selection-end-column="26" />
               <folding>
                 <element signature="e#774#781#0" expanded="true" />
                 <element signature="n#style#0;n#iframe#0;n#div#0;n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <marker date="1479093727416" expanded="true" signature="1804:1856" ph="..." />
-                <marker date="1479093727416" expanded="true" signature="1810:1849" ph="{...}" />
+                <marker date="1479117872203" expanded="true" signature="1804:1856" ph="..." />
+                <marker date="1479117872203" expanded="true" signature="1810:1849" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="toEat.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="toEat.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Iframes/toEat.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="19" column="37" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+            <state relative-caret-position="459">
+              <caret line="40" column="0" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
               <folding>
                 <element signature="e#1001#1007#0" expanded="true" />
                 <element signature="e#1099#1105#0" expanded="true" />
@@ -100,8 +100,8 @@
         <option value="$PROJECT_DIR$/Iframes/toShop.html" />
         <option value="$PROJECT_DIR$/css/responsive.css" />
         <option value="$PROJECT_DIR$/css/style.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/Iframes/toEat.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -287,12 +287,12 @@
       <workItem from="1478932521399" duration="4143000" />
       <workItem from="1478962940799" duration="3383000" />
       <workItem from="1478979153963" duration="399000" />
-      <workItem from="1479093421229" duration="946000" />
+      <workItem from="1479093421229" duration="1496000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19580000" />
+    <option name="totallyTimeSpent" value="20130000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1" y="1" width="1364" height="726" extended-state="0" />
@@ -331,8 +331,8 @@
           <folding>
             <element signature="e#774#781#0" expanded="true" />
             <element signature="n#style#0;n#iframe#0;n#div#0;n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1479093727416" expanded="true" signature="1804:1856" ph="..." />
-            <marker date="1479093727416" expanded="true" signature="1810:1849" ph="{...}" />
+            <marker date="1479117872203" expanded="true" signature="1804:1856" ph="..." />
+            <marker date="1479117872203" expanded="true" signature="1810:1849" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -384,8 +384,8 @@
           <folding>
             <element signature="e#774#781#0" expanded="true" />
             <element signature="n#style#0;n#iframe#0;n#div#0;n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1479093727416" expanded="true" signature="1804:1856" ph="..." />
-            <marker date="1479093727416" expanded="true" signature="1810:1849" ph="{...}" />
+            <marker date="1479117872203" expanded="true" signature="1804:1856" ph="..." />
+            <marker date="1479117872203" expanded="true" signature="1810:1849" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -437,8 +437,8 @@
           <folding>
             <element signature="e#774#781#0" expanded="true" />
             <element signature="n#style#0;n#iframe#0;n#div#0;n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1479093727416" expanded="true" signature="1804:1856" ph="..." />
-            <marker date="1479093727416" expanded="true" signature="1810:1849" ph="{...}" />
+            <marker date="1479117872203" expanded="true" signature="1804:1856" ph="..." />
+            <marker date="1479117872203" expanded="true" signature="1810:1849" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -490,8 +490,8 @@
           <folding>
             <element signature="e#774#781#0" expanded="true" />
             <element signature="n#style#0;n#iframe#0;n#div#0;n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1479093727416" expanded="true" signature="1804:1856" ph="..." />
-            <marker date="1479093727416" expanded="true" signature="1810:1849" ph="{...}" />
+            <marker date="1479117872203" expanded="true" signature="1804:1856" ph="..." />
+            <marker date="1479117872203" expanded="true" signature="1810:1849" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -607,23 +607,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="364" column="37" selection-start-line="364" selection-start-column="37" selection-end-line="364" selection-end-column="37" />
-          <folding>
-            <element signature="e#774#781#0" expanded="true" />
-            <element signature="n#style#0;n#iframe#0;n#div#0;n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1479093727416" expanded="true" signature="1804:1856" ph="..." />
-            <marker date="1479093727416" expanded="true" signature="1810:1849" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Iframes/toEat.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="19" column="37" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+        <state relative-caret-position="459">
+          <caret line="40" column="0" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
           <folding>
             <element signature="e#1001#1007#0" expanded="true" />
             <element signature="e#1099#1105#0" expanded="true" />
@@ -640,6 +627,19 @@
             <element signature="e#3177#3183#0" expanded="true" />
             <element signature="e#3348#3354#0" expanded="true" />
             <element signature="e#3511#3517#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="244" column="26" selection-start-line="244" selection-start-column="26" selection-end-line="244" selection-end-column="26" />
+          <folding>
+            <element signature="e#774#781#0" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#div#0;n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1479117872203" expanded="true" signature="1804:1856" ph="..." />
+            <marker date="1479117872203" expanded="true" signature="1810:1849" ph="{...}" />
           </folding>
         </state>
       </provider>
